@@ -1,0 +1,31 @@
+/* style.css*/
+
+body{
+    text-align: center;
+}
+.title{
+    background-color:black;
+    color:aliceblue
+}
+.main_list{
+    background-color: gray;
+    color:azure;
+}
+
+h1{
+    background-color: black;
+    color:white;
+}
+
+h2{
+    background-color: rgb(77, 74, 74);
+    color: white
+}
+
+.recipe{
+    background-color: rgb(200, 200, 178);
+}
+
+.home{
+    background-color: rgb(142, 160, 175);
+}
